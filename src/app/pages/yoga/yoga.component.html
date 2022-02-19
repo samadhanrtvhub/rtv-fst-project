@@ -1,0 +1,61 @@
+<app-header></app-header>
+<div class="wrapper">
+
+    <div class="container mb15">
+        <div class="row mtb15">
+            <div class="col">
+                <div class="tittle">
+                    <a (click)="back()"><i class="fa fa-arrow-left" aria-hidden="true"></i></a> Yoga
+                </div>
+            </div>
+
+        </div>
+        <div *ngFor="let video of videos" class="mtb15">
+            <div class="innerbox">
+                <a href="{{video.HLSPath}}">
+                    <img src="{{video.ImagePath[1]}}" alt="" width="100%">
+                </a>
+                <div class="innerboxStrape">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Duration : {{video.Duration}} Min
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div>
+                        <div class="subTittle"><strong>{{video.Title}},</strong><br>
+                            {{video.Artist}}</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="right">
+                        <i class="fa fa-heart-o heart" aria-hidden="true"></i>
+                        <a href="" class="follow">Follow</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="innerbox mtb15">
+            <img src="assets/images/young-woman-stretching-floor-as-morning-drill-develop-flexibility.png" alt=""
+                width="100%">
+            <div class="innerboxStrape">
+                <i class="fa fa-caret-right" aria-hidden="true"></i> Duration : 30 Min
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div>
+                    <div class="subTittle"><strong>Lorem ipsum dolor sit amet,</strong><br>
+                        (xxxxxxxx)</div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="right">
+                    <i class="fa fa-heart-o heart" aria-hidden="true"></i>
+                    <a href="" class="follow">Follow</a>
+                </div>
+            </div>
+        </div> -->
+    </div>
+    <app-footer></app-footer>
+</div>

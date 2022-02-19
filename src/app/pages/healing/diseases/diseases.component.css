@@ -1,0 +1,89 @@
+.example-stretched-tabs {
+    /* max-width: 800px; */
+  }
+  .mat-tab-label {
+    /* min-width: 25px !important;
+    padding: 5px; */
+    background-color: transparent;
+    color: #51504F;
+    font-size: 15px;
+    font-weight: bold;
+    justify-content: center !important;
+   
+    
+}
+
+/* Styles for the active tab label */
+.mat-tab-label.mat-tab-label-active {
+    /* min-width: 25px !important;
+    padding: 5px; */
+    font-size: 15px;
+    background-color: transparent;
+    color: #51504F;
+    font-weight: bold;
+    justify-content: center !important;
+}
+
+/* Styles for the ink bar */
+/* .mat-ink-bar {
+    background-color: #FFBEA2;
+    height: 5px;
+} */
+.mat-tab-group.mat-primary .mat-ink-bar, .mat-tab-nav-bar.mat-primary .mat-ink-bar {
+    background-color: #FFBEA2;
+    height: 5px;
+}
+
+.mat-tab-group{
+    /* width: 99%;
+    margin:auto;
+    height: 93% !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    /* overflow: hidden; */
+} 
+::-webkit-scrollbar {
+    display: none;
+}
+.mat-tab-body-content ul{
+    list-style: none;
+}
+.mat-tab-body-content ul li{
+    margin: 8px 0px;
+}
+
+/* .carousel-list, .carousel-slide {
+    display: flex;
+    position: relative;
+    width: 90% !important;
+    margin-left: 10px;
+} */
+
+.carousel-slide{
+    /* width: 90% !important; */
+    border-radius: 15px !important;
+    background: #EEEEEE;
+    /* margin-left:10px; */
+}
+.carousel-slide-overlay{
+    display: none;
+}
+.profilepic{
+    border-radius: 50%;
+    background: #E3E3E3;
+    width: 75px;
+    height: 75px;
+    margin-top: 5px;
+  
+}
+.profiletext{
+    font-size: 8px;
+    font-weight: bold;
+}
+.text-end{
+    margin-top: 5px;
+}
+.slick-prev, .slick-next{
+    display: none !important;
+}

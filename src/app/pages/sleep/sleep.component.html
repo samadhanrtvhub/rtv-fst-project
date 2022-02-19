@@ -1,0 +1,42 @@
+<app-header></app-header>
+<div class="wrapper">
+
+    <div class="container mb15">
+        <div class="row mtb15">
+            <div class="col">
+                <div class="tittle">
+                    <a (click)="back()"><i class="fa fa-arrow-left" aria-hidden="true"></i></a> Sleep Stories
+                </div>
+            </div>
+
+        </div>
+        <div *ngFor="let music of musics" class="mtb15">
+            <div class="innerbox">
+                <a (click)="redirectToAudio(music.HLSPath)">
+                    <!-- <a routerLink="/audio" [state]="{ hello: 'world' }"> -->
+                    <img src="{{music.ImagePath[1]}}" alt="" width="100%">
+                </a>
+                <div class="innerboxStrape">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Duration : {{music.Duration}} Min
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div>
+                        <div class="subTittle"><strong>{{music.Title}},</strong><br>
+                            {{music.Artist}}</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="right">
+                        <i class="fa fa-heart-o heart" aria-hidden="true"></i>
+                        <a href="" class="follow">Follow</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <app-footer></app-footer>
+</div>

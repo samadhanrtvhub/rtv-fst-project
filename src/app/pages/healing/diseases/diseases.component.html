@@ -1,0 +1,167 @@
+<app-header></app-header>
+<div class="wrapper">
+    <div class="contentbox">
+        <img src="assets/images/healing-img-2.png" alt="" width="100%" class="radius-none">
+    </div>
+
+    <div class="box mt15">
+        <div class="pagetitle">
+            <span class="mr10"><img src="assets/images/healing/diabetes.png" alt="" width="40px"></span>
+            <samp class="linktab">Diabetes</samp>
+        </div>
+    </div>
+
+    <div class="container">
+        <mat-tab-group mat-stretch-tabs [disableRipple]="true" class="example-stretched-tabs mat-elevation-z4">
+            <mat-tab label="Benefits">
+                <ul>
+                    <li>Controlled Blood Sugar Levels</li>
+                    <li>Reduced Medication Dosage</li>
+                    <li>Lowered Chances Of Disease-Led Complications</li>
+
+                </ul>
+            </mat-tab>
+            <mat-tab label="Who is this programme for">
+                <ul>
+                    <li>Controlled Blood Sugar Levels</li>
+                    <li>Reduced Medication Dosage</li>
+                    <li>Lowered Chances Of Disease-Led Complications</li>
+
+                </ul>
+            </mat-tab>
+
+        </mat-tab-group>
+
+    </div>
+    <div class="container">
+        <div class="linktab mtb15">Review</div>
+
+        <!-- <mat-carousel timings="250ms ease-in" [autoplay]="true" interval="6000" color="accent" maxWidth="auto"
+            proportion="25" slides="5" [loop]="true" [hideArrows]="false" [hideIndicators]="false" [useKeyboard]="true"
+            [useMouseWheel]="false" orientation="ltr">
+            <mat-carousel-slide #matCarouselSlide *ngFor="let slide of slides; let i = index" [image]="slide.image"
+                overlayColor="#00000040" [hideOverlay]="false"></mat-carousel-slide>
+        </mat-carousel> -->
+        <!-- <mat-carousel timings="250ms ease-in" [autoplay]="true" maxWidth="100%" [loop]="true" orientation="ltr">
+            <mat-carousel-slide>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4 my-auto">
+                            <div class="profilepic "></div>
+                        </div>
+                        <div class="col-8 my-auto">
+                            <div class="profiletext">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+
+                                <div class="text-end"> Read more >></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </mat-carousel-slide>
+            <mat-carousel-slide>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4 my-auto">
+                            <div class="profilepic "></div>
+                        </div>
+                        <div class="col-8 my-auto">
+                            <div class="profiletext">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+
+                                <div class="text-end"> Read more >></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </mat-carousel-slide>
+            <mat-carousel-slide>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4 my-auto">
+                            <div class="profilepic "></div>
+                        </div>
+                        <div class="col-8 my-auto">
+                            <div class="profiletext">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+
+                                <div class="text-end"> Read more >></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </mat-carousel-slide>
+            <mat-carousel-slide>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4 my-auto">
+                            <div class="profilepic "></div>
+                        </div>
+                        <div class="col-8 my-auto">
+                            <div class="profiletext">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+
+                                <div class="text-end"> Read more >></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </mat-carousel-slide>
+            <mat-carousel-slide>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4 my-auto">
+                            <div class="profilepic "></div>
+                        </div>
+                        <div class="col-8 my-auto">
+                            <div class="profiletext">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+
+                                <div class="text-end"> Read more >></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </mat-carousel-slide>
+        </mat-carousel> -->
+
+
+        <div class="slick-wrapper">
+            <ngx-slick-carousel class="carousel" #slickModal="slick-carousel" [config]="slideConfig"
+                (init)="slickInit($event)" (breakpoint)="breakpoint($event)" (afterChange)="afterChange($event)"
+                (beforeChange)="beforeChange($event)">
+                <div ngxSlickItem *ngFor="let slide of slides" class="slide">
+                    <div class="bg">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-4 my-auto">
+                                    <div class="profilepic "></div>
+                                </div>
+                                <div class="col-8 my-auto">
+                                    <div class="profiletext">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                        quis
+
+                                        <div class="text-end"> Read more >></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </ngx-slick-carousel>
+
+        </div>
+
+
+
+        <button type="button" class="subscribe">Subscribe Now</button>
+    </div>
+    <app-footer></app-footer>
+</div>

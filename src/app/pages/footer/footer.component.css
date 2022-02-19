@@ -1,0 +1,119 @@
+
+footer{
+    position: fixed;
+    width: 100%;
+    max-width: 720px;
+    bottom: 0;
+    background: #fff;
+}
+.ftab{
+    text-align: center;
+    font-size: 9px;
+    color: #51504F;
+    padding: 10px 0 !important;    
+}
+.ftab.active{
+    text-align: center;
+    font-size: 9px;
+    color: #ffffff;
+    background: #ffa179 !important;
+    padding: 10px 0 !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.ftab:active, .ftab:hover{
+    text-align: center;
+    font-size: 9px;
+    color: #ffffff;
+    background: #ffa179 !important;
+    padding: 10px 0 !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.ftab svg:active{
+    fill: #ffffff !important;
+}
+.ftab svg:hover{
+    fill: #ffffff !important;
+}
+
+.ftab.active svg{
+    fill: #ffffff !important;
+}
+.ftab svg{
+    fill: #ffa179;
+}
+.subtab{
+    margin: 5px 15px;
+    padding: 0px;
+    display: block;
+    width: calc(100% - 30px);;
+    position: relative;
+    list-style: none;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    /* height: 80px; */
+    white-space:nowrap
+}
+
+.subtab li{
+    font-size: 13px;
+    text-align: center;
+    border: solid #707070 1px;
+    display: inline-block;
+    margin: 5px;  
+    padding: 5px 10px;  
+    border-radius: 15px;
+}
+
+::-webkit-scrollbar{
+    height: 0px;
+    width: 0px;
+    background: white;
+    display: none;
+}
+::-webkit-scrollbar-thumb:horizontal{
+    background: white;
+    border-radius: 0px;
+    display: none;
+}
+.subtab li:active{
+    font-size: 13px;
+    text-align: center;
+    border: solid #707070 1px;
+    display: inline-block;
+    margin: 5px;  
+    padding: 5px 10px;  
+    border-radius: 15px;
+    color: #FFF;
+    background: #ffa179;
+}
+.subtab li:hover{
+    font-size: 13px;
+    text-align: center;
+    border: solid #707070 1px;
+    display: inline-block;
+    margin: 5px;  
+    padding: 5px 10px;  
+    border-radius: 15px;
+    color: #FFF !important;
+    background: #ffa179;
+}
+.subtab a{
+text-decoration: none;
+color: #51504F;
+}
+
+.subtab a:active{
+    text-decoration: none;
+    color: #FFF !important;
+    background: #ffa179;
+    }
+
+    .subtab a:hover{
+        text-decoration: none;
+        color: #FFF !important;
+        background: #ffa179;
+        }
