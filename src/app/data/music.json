@@ -5,9 +5,9 @@
         "Artist": "Cara",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/AbreathingAnchorforyourWanderingmind/AbreathingAnchorforyourWanderingmind.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/AbreathingAnchorforyourWanderingmind/AbreathingAnchorforyourWanderingmind_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/AbreathingAnchorforyourWanderingmind/AbreathingAnchorforyourWanderingmind_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/AbreathingAnchorforyourWanderingmind/AbreathingAnchorforyourWanderingmind_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/AbreathingAnchorforyourWanderingmind/AbreathingAnchorforyourWanderingmind_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/AbreathingAnchorforyourWanderingmind/AbreathingAnchorforyourWanderingmind_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/AbreathingAnchorforyourWanderingmind/AbreathingAnchorforyourWanderingmind_375x812.jpg"
         ]
     },
     {
@@ -16,9 +16,9 @@
         "Artist": "Rev. Bibiladeniye Mahanama",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/BeOneWithNatureMeditation/BeOneWithNatureMeditation.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/BeOneWithNatureMeditation/BeOneWithNatureMeditation_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/BeOneWithNatureMeditation/BeOneWithNatureMeditation_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/BeOneWithNatureMeditation/BeOneWithNatureMeditation_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/BeOneWithNatureMeditation/BeOneWithNatureMeditation_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/BeOneWithNatureMeditation/BeOneWithNatureMeditation_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/BeOneWithNatureMeditation/BeOneWithNatureMeditation_375x812.jpg"
         ]
     },
     {
@@ -27,9 +27,9 @@
         "Artist": "Cara",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EndingTheDayWithGratitude/EndingTheDayWithGratitude.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EndingTheDayWithGratitude/EndingTheDayWithGratitude_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EndingTheDayWithGratitude/EndingTheDayWithGratitude_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EndingTheDayWithGratitude/EndingTheDayWithGratitude_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EndingTheDayWithGratitude/EndingTheDayWithGratitude_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EndingTheDayWithGratitude/EndingTheDayWithGratitude_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EndingTheDayWithGratitude/EndingTheDayWithGratitude_375x812.jpg"
         ]
     },
     {
@@ -38,9 +38,9 @@
         "Artist": "Rev. Bibiladeniye Mahanama",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EquanamityMeditation/EquanamityMeditation.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EquanamityMeditation/EquanamityMeditation_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EquanamityMeditation/EquanamityMeditation_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EquanamityMeditation/EquanamityMeditation_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EquanamityMeditation/EquanamityMeditation_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EquanamityMeditation/EquanamityMeditation_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/EquanamityMeditation/EquanamityMeditation_375x812.jpg"
         ]
     },
     {
@@ -49,9 +49,9 @@
         "Artist": "Cara",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Findingthebreath/Findingthebreath.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Findingthebreath/Findingthebreath_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Findingthebreath/Findingthebreath_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Findingthebreath/Findingthebreath_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Findingthebreath/Findingthebreath_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Findingthebreath/Findingthebreath_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Findingthebreath/Findingthebreath_375x812.jpg"
         ]
     },
     {
@@ -60,9 +60,9 @@
         "Artist": "Rev. Bibiladeniye Mahanama",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/MindfulnessTrainingforUnlimitedThoughts/MindfulnessTrainingforUnlimitedThoughts.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/MindfulnessTrainingforUnlimitedThoughts/MindfulnessTrainingforUnlimitedThoughts_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/MindfulnessTrainingforUnlimitedThoughts/MindfulnessTrainingforUnlimitedThoughts_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/MindfulnessTrainingforUnlimitedThoughts/MindfulnessTrainingforUnlimitedThoughts_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/MindfulnessTrainingforUnlimitedThoughts/MindfulnessTrainingforUnlimitedThoughts_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/MindfulnessTrainingforUnlimitedThoughts/MindfulnessTrainingforUnlimitedThoughts_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/MindfulnessTrainingforUnlimitedThoughts/MindfulnessTrainingforUnlimitedThoughts_375x812.jpg"
         ]
     },
     {
@@ -71,9 +71,9 @@
         "Artist": "Cara",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/OneBreathAtATime/OneBreathAtATime.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/OneBreathAtATime/OneBreathAtATime_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/OneBreathAtATime/OneBreathAtATime_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/OneBreathAtATime/OneBreathAtATime_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/OneBreathAtATime/OneBreathAtATime_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/OneBreathAtATime/OneBreathAtATime_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/OneBreathAtATime/OneBreathAtATime_375x812.jpg"
         ]
     },
     {
@@ -82,9 +82,9 @@
         "Artist": "Rev. Bibiladeniye Mahanama",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/ReducingMentalConfusion/ReducingMentalConfusion.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/ReducingMentalConfusion/ReducingMentalConfusion_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/ReducingMentalConfusion/ReducingMentalConfusion_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/ReducingMentalConfusion/ReducingMentalConfusion_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/ReducingMentalConfusion/ReducingMentalConfusion_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/ReducingMentalConfusion/ReducingMentalConfusion_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/ReducingMentalConfusion/ReducingMentalConfusion_375x812.jpg"
         ]
     },
     {
@@ -93,9 +93,9 @@
         "Artist": "Rev. Bibiladeniye Mahanama",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/RelievingTensionandTiredness/RelievingTensionandTiredness.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/RelievingTensionandTiredness/RelievingTensionandTiredness_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/RelievingTensionandTiredness/RelievingTensionandTiredness_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/RelievingTensionandTiredness/RelievingTensionandTiredness_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/RelievingTensionandTiredness/RelievingTensionandTiredness_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/RelievingTensionandTiredness/RelievingTensionandTiredness_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/RelievingTensionandTiredness/RelievingTensionandTiredness_375x812.jpg"
         ]
     },
     {
@@ -104,9 +104,9 @@
         "Artist": "Carlos Carty",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Sohum/Sohum.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Sohum/Sohum_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Sohum/Sohum_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Sohum/Sohum_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Sohum/Sohum_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Sohum/Sohum_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Sohum/Sohum_375x812.jpg"
         ]
     },
     {
@@ -115,9 +115,9 @@
         "Artist": "Shailendra Bhartti",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Vishnusahasranama/Vishnusahasranama.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Vishnusahasranama/Vishnusahasranama_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Vishnusahasranama/Vishnusahasranama_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Vishnusahasranama/Vishnusahasranama_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Vishnusahasranama/Vishnusahasranama_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Vishnusahasranama/Vishnusahasranama_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/Vishnusahasranama/Vishnusahasranama_375x812.jpg"
         ]
     },
     {
@@ -126,9 +126,9 @@
         "Artist": "Cara",
         "HLSPath": "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/WholeBodyBreathing/WholeBodyBreathing.mp3",
         "ImagePath": [
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/WholeBodyBreathing/WholeBodyBreathing_322x181.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/WholeBodyBreathing/WholeBodyBreathing_375x277.png",
-            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/WholeBodyBreathing/WholeBodyBreathing_375x812.png"
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/WholeBodyBreathing/WholeBodyBreathing_322x181.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/WholeBodyBreathing/WholeBodyBreathing_375x277.jpg",
+            "https://resetcontent.s3.ap-south-1.amazonaws.com/Meditations/Audio/FirstBatch/WholeBodyBreathing/WholeBodyBreathing_375x812.jpg"
         ]
     }
 ]
